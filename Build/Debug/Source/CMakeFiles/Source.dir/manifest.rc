@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/DEV-JOGOS/estudo-directx/D3DTutorial/Build/Debug/Source/CMakeFiles/Source.dir/embed.manifest"

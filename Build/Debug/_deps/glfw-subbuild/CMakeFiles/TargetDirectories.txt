@@ -1,0 +1,3 @@
+D:/DEV-JOGOS/estudo-directx/D3DTutorial/Build/Debug/_deps/glfw-subbuild/CMakeFiles/glfw-populate.dir
+D:/DEV-JOGOS/estudo-directx/D3DTutorial/Build/Debug/_deps/glfw-subbuild/CMakeFiles/edit_cache.dir
+D:/DEV-JOGOS/estudo-directx/D3DTutorial/Build/Debug/_deps/glfw-subbuild/CMakeFiles/rebuild_cache.dir

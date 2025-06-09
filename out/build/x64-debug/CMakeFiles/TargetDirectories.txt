@@ -1,0 +1,5 @@
+D:/DEV-JOGOS/estudo-directx/D3DTutorial/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/DEV-JOGOS/estudo-directx/D3DTutorial/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/DEV-JOGOS/estudo-directx/D3DTutorial/out/build/x64-debug/D3DTutorial/CMakeFiles/D3DTutorial.dir
+D:/DEV-JOGOS/estudo-directx/D3DTutorial/out/build/x64-debug/D3DTutorial/CMakeFiles/edit_cache.dir
+D:/DEV-JOGOS/estudo-directx/D3DTutorial/out/build/x64-debug/D3DTutorial/CMakeFiles/rebuild_cache.dir
